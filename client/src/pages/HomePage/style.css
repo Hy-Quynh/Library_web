@@ -1,0 +1,5 @@
+@media only screen and (max-width: 600px) {
+  .listbook-frame {
+    padding: 50px 10px !important;
+  }
+}
